@@ -1,6 +1,4 @@
-### System Administrator Portfolio
-
-### Skillset
+### Skills Summary
 Linux Expertise: Minimum of 5 years of hands-on experience managing Linux systems.
 AWS Cloud: Proven experience with AWS cloud services, including EC2, S3, RDS, VPC, IAM, and related technologies.
 Google Workspace: Experience administering Google Workspace environments.
