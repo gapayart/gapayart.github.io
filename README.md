@@ -1,5 +1,7 @@
 ### Skills Summary
-Linux Expertise: Minimum of 5 years of hands-on experience managing Linux systems.
+<ul>
+<li>Linux Expertise: Minimum of 5 years of hands-on experience managing Linux systems.</li>
+</ul>
 AWS Cloud: Proven experience with AWS cloud services, including EC2, S3, RDS, VPC, IAM, and related technologies.
 Google Workspace: Experience administering Google Workspace environments.
 *Email migration from Microsoft Exchange to Google Workspace
